@@ -1,2 +1,2 @@
 # project-2
-Financial Analysis of Hindware
+Marketing Analysis of Hindware
